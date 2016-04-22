@@ -9,13 +9,13 @@
 * GILMANT LUCAS :
 * GUERMONPREZ MAXIME  :
 * LASSALLE  RÉMI  :
-* LEGAY NICOLAS : https://github.com/nlegay/RomanNumerals.git
+* LEGAY NICOLAS :
 * LELONG  BENJAMIN  :
 * MAINGUET  THEO  :
 * MARTELLO  ARTHUR  :
 * MASSIAUX  ALEXIS  :
-* MÉZIÈRES  VANESSA : https://github.com/VanessaMe/chiffresromains.git
-* PAUL  KILIAN  :
+* MÉZIÈRES  VANESSA :
+* PAUL  KILIAN  :https://github.com/kilianpaul/tdd.git
 * PELLERIN  ALEXANDRE :
 * PIRLET  GAUTHIER  :
 * PLOUCHART THOMAS  :
